@@ -1,4 +1,4 @@
-package __PACKAGE__.entities
+package dev.alpas.pingcrm.entities
 
 import dev.alpas.auth.Authenticatable
 import dev.alpas.auth.UserProvider

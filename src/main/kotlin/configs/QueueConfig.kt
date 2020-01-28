@@ -1,4 +1,4 @@
-package __PACKAGE__.configs
+package dev.alpas.pingcrm.configs
 
 import dev.alpas.Environment
 import dev.alpas.queue.activemq.ActiveMQConnection

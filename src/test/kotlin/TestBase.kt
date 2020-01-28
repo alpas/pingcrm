@@ -1,5 +1,5 @@
-import __PACKAGE__.ConsoleKernel
-import __PACKAGE__.addRoutes
+import dev.alpas.pingcrm.ConsoleKernel
+import dev.alpas.pingcrm.addRoutes
 import dev.alpas.auth.Authenticatable
 import dev.alpas.pulsar.TestBase
 import dev.alpas.pulsar.from

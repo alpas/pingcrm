@@ -1,4 +1,4 @@
-package __PACKAGE__
+package dev.alpas.pingcrm
 
 import dev.alpas.Alpas
 

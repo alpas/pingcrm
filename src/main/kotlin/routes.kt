@@ -1,6 +1,6 @@
-package __PACKAGE__
+package dev.alpas.pingcrm
 
-import __PACKAGE__.controllers.WelcomeController
+import dev.alpas.pingcrm.controllers.WelcomeController
 import dev.alpas.routing.RouteGroup
 import dev.alpas.routing.Router
 

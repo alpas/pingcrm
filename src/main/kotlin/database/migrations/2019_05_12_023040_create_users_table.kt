@@ -1,6 +1,6 @@
-package __PACKAGE__.database.migrations
+package dev.alpas.pingcrm.database.migrations
 
-import __PACKAGE__.entities.Users
+import dev.alpas.pingcrm.entities.Users
 import dev.alpas.auth.PasswordResetTokens
 import dev.alpas.ozone.migration.Migration
 
